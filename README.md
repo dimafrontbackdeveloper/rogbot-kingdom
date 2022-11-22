@@ -1,1 +1,1 @@
-npm install => npm run start
+npm install --legacy-peer-deps => npm run start
